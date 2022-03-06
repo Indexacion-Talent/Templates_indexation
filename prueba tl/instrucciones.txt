@@ -1,0 +1,21 @@
+Jobsite --> (JSON) https://www.jobs.ch/api/v1/public/search?category-ids%5B%5D=100&page=1&rows=20&sort=date
+Jobsite --> (URL)  https://www.jobs.ch/de/
+
+
+Dano el siguiente jobsite: https://www.jobs.ch/de/
+Se solicita:
+Indexar la mayor cantidad de jobs posible, mínimo 10k máximo 20k
+Se deben extraer todos los datos presentes.
+Solamente se evaluará el código de los Steps hasta el step Spider Test.
+No deben hacer extracción de jobdata.
+Se evaluará:
+Calidad del código realizado.
+Cumplir con la cantidad mínima de jobs solicitados.
+Performance del código aplicado, en términos de velocidad.
+Para esta prueba se obtiene la siguiente puntuación:
+100% al 1er en entregar.
+75% al 2do en entregar
+50% al 3ero en entregar.
+
+
+Spider de prueba --> https://talent.com/private/tools/jobs/pageScanidView.php?scanid=147385
